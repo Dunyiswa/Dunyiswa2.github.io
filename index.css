@@ -345,6 +345,15 @@ p {
   background-color: #cff7dd;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+p {
+  font-size: 16px; 
+}
+
+
+#my_skills, #my_projects {
+  font-size: 14px; 
+  line-height: 1.4; 
+}
 
 .footer {
   position: relative;
