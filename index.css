@@ -130,6 +130,7 @@ p {
   gap: 7em;
   padding: 30px 0 0;
   box-sizing: border-box;
+  margin-top: 60px;
 }
 
 @media (max-width: 768px) {
